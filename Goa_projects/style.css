@@ -69,12 +69,7 @@ body{
     margin-bottom: 40px;
 }
 
-section{
-    display: flex;
-    align-items: center;
-    font-size: 14px;
-    color: #555;
-}
+
 
 #check{
     margin-right: 10px;   
